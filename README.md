@@ -13,7 +13,7 @@
 	
 ### ***Installation***
 You can download the latest version of Tor by cloning the GitHub repository:
-<pre><code>git clone https://github.com/r0oth3x49/Tor.git</pre></code>
+<pre><code>git clone https://github.com/DARKSTUFF-LAB/TorProxyServices.git</pre></code>
 
 ### ***Usage***
 - Run the ***tor_services.py*** file to establish a Tor circuit.
