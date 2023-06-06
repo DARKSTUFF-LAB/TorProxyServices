@@ -7,7 +7,7 @@ torBanner = '''
   | |/ _ \ '_| |  _/ '_/ _ \ \ / || | \__ \/ -_) '_\ V / / _/ -_|_-<
 %s%s  |_|\___/_|   |_| |_| \___/_\_\\_,  | |___/\___|_|  \_/|_\__\___/__/
                                 |__/                               
-                                       %s%s:-%s%s  by Nasir Khan (r0ot h3x49)
+                                       %s%s:-%s%s  by DARKSTUFF-LAB (r0ot h3x49)
 %s%s----------------------------------------------------------------------------
 ''' % (fg, sb, fc, sb, fg, sb, fw, sb, fg, sb, fg, sb)
 class TorServiceSetup(object):
