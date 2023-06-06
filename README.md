@@ -2,7 +2,8 @@
 
 **Tor is a python based module for using tor proxy (an anonymous network) services.**
 
-[![tor.png](https://s26.postimg.cc/eqgds272h/tor.png)](https://postimg.cc/image/686xnq0jp/)
+![upload](https://github.com/DARKSTUFF-LAB/TorProxyServices/assets/109729013/1120bb71-d426-4cf1-b26f-da6ac11d5686)
+
 
 ### ***Requirements***
 - Python (2 or 3)
